@@ -189,14 +189,16 @@
   <string name="pref_auto_download_summary">使用可能になったとき、自動的に MMS メッセージをダウンロードします</string>
   <string name="pref_auto_data">自動データ</string>
   <string name="pref_auto_data_summary">MMS の送受信時に自動的にデータをオンにします</string>
+  <string name="pref_send_texts_as_mms">テキストを MMS で送信</string>
+  <string name="pref_send_texts_as_mms_summary">テキストメッセージを SMS ではなく MMS で送信します</string>
   <string name="pref_split">SMS の分割</string>
   <string name="pref_split_summary">長いメッセージを個別のメッセージに分割します</string>
   <string name="pref_split_counter">分割カウンター</string>
   <string name="pref_split_counter_summary">それぞれの分割メッセージの前にカウンターを追加します</string>
   <string name="pref_long_as_mms">長いメッセージを MMS として送信</string>
-  <string name="pref_long_as_mms_summary">長いメッセージを分割ではなく MMS として送信します</string>
+  <string name="pref_long_as_mms_summary">長いメッセージを分割せず MMS として送信します</string>
   <string name="pref_long_as_mms_after">MMS として送信する長さ</string>
-  <string name="pref_long_as_mms_after_summary">メッセージの長さを超えた場合、長いメッセージを MMS として送信します</string>
+  <string name="pref_long_as_mms_after_summary">タップして MMS として送信するメッセージの長さを変更します</string>
   <string name="pref_return">Return ボタンを表示</string>
   <string name="pref_return_summary">絵文字ボタンの代わりにキーボードの return キーを表示します</string>
   <string name="pref_text">テキスト</string>
@@ -665,7 +667,7 @@
   <string name="no">いいえ</string>
   <string name="pref_automatically_configure_mms">自動的に MMS を設定</string>
   <string name="pref_mms_contact_support">サポートに問い合わせ</string>
-  <string name="pref_category_sending_mms">MMS を送信しています</string>
+  <string name="pref_category_sending_mms">MMS 送信</string>
   <string name="pref_category_mms_configuration">MMS 設定</string>
   <string name="pref_mms_contact_support_summary">MMS を設定する支援をうけるため、QKSMS チームに連絡します</string>
   <string name="pref_markdown_enabled">テキストの書式設定</string>

@@ -14,9 +14,9 @@
   <!--Hint for contacts text field-->
   <string name="hint_contacts">受信者を入力してください</string>
   <!--Hint for search text field-->
-  <string name="hint_search">何かを検索します</string>
+  <string name="hint_search">メッセージを検索します</string>
   <!--Hint for message reply text field-->
-  <string name="hint_reply">メッセージを入力します</string>
+  <string name="hint_reply">メッセージを入力してください</string>
   <!--Hint for code redemption-->
   <string name="hint_redeem">コードを入力します</string>
   <string name="hint_hex">16 進数</string>
@@ -65,7 +65,7 @@
   <!--Show full conversation in QuickReply-->
   <string name="menu_show_all">すべてのメッセージを表示</string>
   <!--Show only unread messages in QuickReply-->
-  <string name="menu_show_unread">未読メ ッ セージを表示</string>
+  <string name="menu_show_unread">未読メッセージを表示</string>
   <!--Open conversation option in menu (shown in QuickReply)-->
   <string name="menu_open_thread">会話を開く</string>
   <!--Forward message option in menu-->
@@ -118,15 +118,15 @@
   <string name="pref_category_about">アプリについて</string>
   <string name="pref_category_summary_about">バージョン、変更履歴、作者、謝辞</string>
   <string name="pref_theme">テーマ色</string>
-  <string name="pref_theme_summary_alt">タップするとテーマを変更します</string>
-  <string name="pref_icon">Icon color</string>
-  <string name="pref_icon_summary">Tap to change the QKSMS icon color</string>
-  <string name="pref_status_tint">彩色のステータス バー</string>
-  <string name="pref_navigation_tint">彩色のナビゲーション バー</string>
+  <string name="pref_theme_summary_alt">タップしてテーマを変更します</string>
+  <string name="pref_icon">アイコンの色</string>
+  <string name="pref_icon_summary">タップして QKSMS のアイコンの色を変更します</string>
+  <string name="pref_status_tint">ステータス バーを色付けする</string>
+  <string name="pref_navigation_tint">ナビゲーション バーを色付けする</string>
   <string name="pref_background">背景色</string>
-  <string name="pref_background_summary">タップすると背景色を変更します</string>
+  <string name="pref_background_summary">タップして背景色を変更します</string>
   <string name="pref_bubbles">メッセージ バブル</string>
-  <string name="pref_bubbles_summary">タップするとメッセージ バブルの設定を変更します</string>
+  <string name="pref_bubbles_summary">タップしてメッセージ バブルの設定を変更します</string>
   <string name="pref_night">夜間モード</string>
   <string name="pref_night_summary">バッテリーを節約し、目の負担を軽減します</string>
   <string name="pref_night_amoled">純粋な黒の背景</string>
@@ -160,13 +160,13 @@
   <string name="pref_delivery">配信確認</string>
   <string name="pref_delivery_summary">メッセージが正常に送信されたことを確認します</string>
   <string name="pref_delivery_toast">トーストを表示</string>
-  <string name="pref_delivery_toast_summary">メッセージの配信を示す、短いトーストを表示します</string>
+  <string name="pref_delivery_toast_summary">メッセージが配信されたことを示す、短いトーストを表示します</string>
   <string name="pref_delivery_vibrate">振動</string>
   <string name="pref_delivery_vibrate_summary">メッセージ配信で振動します</string>
   <string name="pref_delete_old_messages">古いメッセージを削除</string>
-  <string name="pref_delete_old_messages_summary">十分に古くなったメッセージを自動的に削除します</string>
-  <string name="pref_delete_old_messages_unread">未読メ ッ セージ</string>
-  <string name="pref_delete_old_messages_unread_summary">%s 日後に自動的に未読メ ッ セージを削除します</string>
+  <string name="pref_delete_old_messages_summary">古いメッセージを自動的に削除します</string>
+  <string name="pref_delete_old_messages_unread">未読メッセージ</string>
+  <string name="pref_delete_old_messages_unread_summary">%s 日後に自動的に未読メッセージを削除します</string>
   <string name="pref_delete_old_messages_read">既読メッセージ</string>
   <string name="pref_delete_old_messages_read_summary">%s 日後に自動的に既読メッセージを削除します</string>
   <string name="pref_yappy">Yappy 統合</string>
@@ -182,7 +182,7 @@
   <string name="pref_auto_emoji">自動絵文字</string>
   <string name="pref_auto_emoji_summary">画像絵文字で、テキストを置き換えます</string>
   <string name="pref_enter_button">Enter ボタン</string>
-  <string name="pref_enter_button_summary">タップすると、キーボードの Enter ボタンの動作を変更します</string>
+  <string name="pref_enter_button_summary">タップしてキーボードの Enter ボタンの動作を変更します</string>
   <string name="pref_compose_group">グループ メッセージ送信</string>
   <string name="pref_compose_group_summary">複数の人にメッセージを作成するとき、個々のメッセージの代わりにグループ メッセージを送信します</string>
   <string name="pref_auto_download">自動ダウンロード MMS</string>
@@ -222,7 +222,7 @@
   <string name="pref_delayed_duration">遅延時間 (秒)</string>
   <string name="pref_delayed_duration_summary">メッセージを送信する前に待機する時間</string>
   <string name="pref_night_auto">自動夜間モード</string>
-  <string name="pref_night_auto_summary">時間に基づいて、自動的に夜間モードを有効にします</string>
+  <string name="pref_night_auto_summary">時間に基づき、自動的に夜間モードを有効にします</string>
   <string name="pref_day_start">日中の開始時間</string>
   <string name="pref_night_start">夜間の開始時間</string>
   <string name="pref_qk_responses">QK 応答</string>
@@ -244,9 +244,9 @@
   <string name="pref_system_bar_flat">フラット システム バー</string>
   <string name="pref_system_bar_flat_summary">ほとんどの KitKat デバイスで、システム UI バーのグラデーションを取り除きます</string>
   <string name="pref_status_compat">ステータス バーの修正</string>
-  <string name="pref_status_compat_summary">イマーシブ モード、彩色ステータス バー (Xposed) またはカスタム DPI 設定によって引き起こされる問題を修正します</string>
+  <string name="pref_status_compat_summary">イマーシブ モード、色付けステータス バー (Xposed) またはカスタム DPI 設定によって引き起こされる問題を修正します</string>
   <string name="pref_navigation_compat">ナビゲーション バーの修正</string>
-  <string name="pref_navigation_compat_summary">イマーシブ モード、彩色ステータス バー (Xposed) またはカスタム DPI 設定によって引き起こされる問題を修正します</string>
+  <string name="pref_navigation_compat_summary">イマーシブ モード、色付けステータス バー (Xposed) またはカスタム DPI 設定によって引き起こされる問題を修正します</string>
   <string name="pref_about_version_title">QKSMS バージョン</string>
   <string name="pref_about_authors_title">作者</string>
   <string name="pref_about_authors_summary">Moez Bhatti</string>
@@ -552,7 +552,7 @@
   <!-- Dialog title for updating app icon color -->
   <string name="update_icon_title">アイコンの色を更新</string>
   <!-- Dialog message for updating app icon color -->
-  <string name="update_icon_message">アイコンの色を変更するときに QKSMS を再起動する必要があります</string>
+  <string name="update_icon_message">アイコンの色を変更すると QKSMS を再起動する必要があります</string>
   <string name="dialog_conversation_details_title">会話の詳細</string>
   <string name="dialog_conversation_details_last_message_date">最新メッセージの日付</string>
   <string name="dialog_conversation_details_message_count">メッセージ件数</string>
